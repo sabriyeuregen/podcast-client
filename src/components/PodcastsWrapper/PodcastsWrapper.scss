@@ -1,0 +1,10 @@
+.podcastsWrapper {
+  flex: 7;
+  height: 85vh;
+  padding: 0 1rem;
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 0 !important;
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Başlık1",
+    "summary": "Özet bilgi1",
+    "img": "https://images.unsplash.com/photo-1580280785800-23d12b76445e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2789&q=80",
+    "mp3": "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3",
+    "speaker": "speaker",
+    "publishedDate": "publisheddate",
+    "category":"spor"
+  },
+  {
+    "id": 2,
+    "title": "Başlık2",
+    "summary": "Özet bilgi2",
+    "img": "https://images.unsplash.com/photo-1529602266431-5e205a27eb68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2400&q=80",
+    "mp3": "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3",
+    "speaker": "speaker",
+    "publishedDate": "publisheddate",
+    "category":"yasam"
+  },
+  {
+    "id": 3,
+    "title": "Başlık3",
+    "summary": "Özet bilgi3",
+    "img": "https://images.unsplash.com/photo-1611532736576-78f7b69f4b9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
+    "mp3": "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3",
+    "speaker": "speaker",
+    "publishedDate": "publisheddate",
+    "category":"kitap"
+  },
+  {
+    "id": 4,
+    "title": "Başlık4",
+    "summary": "Özet bilgi4",
+    "img": "https://images.unsplash.com/photo-1640042588752-d21006e65082?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2864&q=80",
+    "mp3": "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3",
+    "speaker": "speaker",
+    "publishedDate": "publisheddate",
+    "category":"psikoloji"
+  }
+]

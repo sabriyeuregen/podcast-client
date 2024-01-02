@@ -1,0 +1,15 @@
+.playingPodcast {
+  flex: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0,0,0, .18);
+  border: 1px solid lightgray;
+  border-radius: 10%;
+
+  &-item {
+    border: 1px solid lightgray;
+    width: 80%;
+    height: 90%;
+  }
+}
